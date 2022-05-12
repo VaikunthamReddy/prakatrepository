@@ -2,4 +2,5 @@ prakat:
 config_server:
 endpoints:
 enpoint:
+uri:
 http://localhost:8090/addStudentServer
